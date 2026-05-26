@@ -1,7 +1,7 @@
 <h1 align="center">Gabriel Schroeder Alfarth</h1>
 
 <h3 align="center">
-  Full Stack em formacao | Dados | Automacao | Dashboards
+  Full Stack em formacao | Dados | Automacao | Projetos Web
 </h3>
 
 <p align="center">
