@@ -1,136 +1,154 @@
-<h1 align="center">Gabriel Schroeder Alfarth</h1>
+<div align="center">
 
-<p align="center">
-  Full Stack em formacao, com foco em sistemas web, dashboards, automacoes e dados.
-</p>
+```txt
+galfarth / README.md
+```
 
-<p align="center">
-  <a href="https://galfarth.github.io/portfolio-gabriel-alfarth/">Portfolio</a>
-  ·
-  <a href="https://www.linkedin.com/in/gabrielalfarth/">LinkedIn</a>
-  ·
-  <a href="mailto:gabrielschroederalfarth@gmail.com">Email</a>
-</p>
+# Gabriel Schroeder Alfarth
+
+Full Stack em formacao | Sistemas web | Dados | Automacao
+
+<a href="https://galfarth.github.io/portfolio-gabriel-alfarth/">portfolio</a>
+/
+<a href="https://www.linkedin.com/in/gabrielalfarth/">linkedin</a>
+/
+<a href="mailto:gabrielschroederalfarth@gmail.com">email</a>
+
+</div>
 
 ---
 
-## Sobre
+## about me *
 
-Desenvolvo solucoes praticas para organizar processos, transformar dados em informacao util e criar interfaces simples para uso real.
-
-Meu foco atual esta em evoluir como desenvolvedor full stack, combinando front-end, APIs, dashboards e automacoes para resolver problemas operacionais.
-
-## Stack
-
-<table>
-  <tr>
-    <td><strong>Front-end</strong></td>
-    <td>HTML, CSS, JavaScript, React</td>
-  </tr>
-  <tr>
-    <td><strong>Back-end</strong></td>
-    <td>Python, FastAPI, Node.js</td>
-  </tr>
-  <tr>
-    <td><strong>Dados</strong></td>
-    <td>Power BI, PostgreSQL, planilhas, indicadores</td>
-  </tr>
-  <tr>
-    <td><strong>Cloud e deploy</strong></td>
-    <td>GitHub Pages, Netlify, Render</td>
-  </tr>
-  <tr>
-    <td><strong>Ferramentas</strong></td>
-    <td>Git, GitHub, VS Code, Firebase</td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,fastapi,postgres,firebase,git,github,vscode" alt="Stack principal" />
-</p>
-
-## Habilidades
+```txt
+> brasil
+> desenvolvedor em evolucao
+> foco em transformar processos manuais em sistemas, dashboards e automacoes
+> criando projetos reais com front-end, APIs, dados e deploy
+```
 
 <table>
   <tr>
-    <td width="50%">
-      <strong>Desenvolvimento web</strong>
-      <br />
-      Interfaces responsivas, componentes reutilizaveis, formularios, filtros, modais e paginas institucionais.
-    </td>
-    <td width="50%">
-      <strong>Sistemas e APIs</strong>
-      <br />
-      Organizacao de regras de negocio, endpoints, autenticacao, integracoes e paineis operacionais.
-    </td>
+    <td><strong>current focus</strong></td>
+    <td>JavaScript, React, Python, FastAPI, Power BI</td>
   </tr>
   <tr>
-    <td width="50%">
-      <strong>Dados e dashboards</strong>
-      <br />
-      Indicadores, visualizacoes, analises operacionais, Power BI e leitura de bases em planilhas.
-    </td>
-    <td width="50%">
-      <strong>Automacao</strong>
-      <br />
-      Reducao de tarefas manuais, padronizacao de fluxos e transformacao de processos em ferramentas digitais.
-    </td>
+    <td><strong>building</strong></td>
+    <td>portfolios, dashboards, sistemas operacionais e sites profissionais</td>
+  </tr>
+  <tr>
+    <td><strong>interests</strong></td>
+    <td>automacao, dados, UX simples, APIs e ferramentas internas</td>
   </tr>
 </table>
 
-## Projetos
-
-<table>
-  <tr>
-    <td width="50%">
-      <strong>Sistema de Carregamentos</strong>
-      <br />
-      Painel operacional com FastAPI, Microsoft Graph, SharePoint e controle de acesso.
-      <br />
-      <a href="https://github.com/galfarth/sistema-carregamentos">Repositorio</a>
-    </td>
-    <td width="50%">
-      <strong>Portfolio Pessoal</strong>
-      <br />
-      Portfolio responsivo com projetos, curriculos em dois idiomas, modal interativo e GitHub Pages.
-      <br />
-      <a href="https://galfarth.github.io/portfolio-gabriel-alfarth/">Online</a>
-      ·
-      <a href="https://github.com/galfarth/portfolio-gabriel-alfarth">Repositorio</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <strong>Programacao de Carregamentos</strong>
-      <br />
-      Dashboard estatico para acompanhar programacao semanal, filtros, indicadores e volume por periodo.
-      <br />
-      <a href="https://galfarth.github.io/carregamentosemanal/">Online</a>
-    </td>
-    <td width="50%">
-      <strong>Adv Minella</strong>
-      <br />
-      Site institucional e portal administrativo com HTML, CSS, JavaScript, Firebase e Netlify.
-      <br />
-      <a href="https://github.com/galfarth/advminella">Repositorio</a>
-    </td>
-  </tr>
-</table>
-
-## Em evolucao
-
-- React e componentizacao de interfaces.
-- APIs com Python e FastAPI.
-- Dashboards e indicadores com foco operacional.
-- Integracoes com servicos externos e bases de dados.
-- Boas praticas de versionamento, documentacao e deploy.
-
-## Contato
+## toolkit *
 
 <p>
-  <a href="mailto:gabrielschroederalfarth@gmail.com">gabrielschroederalfarth@gmail.com</a>
-  <br />
-  <a href="https://www.linkedin.com/in/gabrielalfarth/">linkedin.com/in/gabrielalfarth</a>
-  <br />
-  <a href="https://galfarth.github.io/portfolio-gabriel-alfarth/">galfarth.github.io/portfolio-gabriel-alfarth</a>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=111" alt="React" />
+  <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=111" alt="Firebase" />
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=111" alt="Power BI" />
+  <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+<table>
+  <tr>
+    <th>area</th>
+    <th>skills</th>
+  </tr>
+  <tr>
+    <td>front-end</td>
+    <td>interfaces responsivas, componentes, filtros, modais, formularios</td>
+  </tr>
+  <tr>
+    <td>back-end</td>
+    <td>APIs, regras de negocio, autenticacao, integracoes, paineis internos</td>
+  </tr>
+  <tr>
+    <td>data</td>
+    <td>dashboards, indicadores, PostgreSQL, planilhas, Power BI</td>
+  </tr>
+  <tr>
+    <td>deploy</td>
+    <td>GitHub Pages, Netlify, Render, versionamento com Git</td>
+  </tr>
+</table>
+
+## fav digital archives *
+
+<table>
+  <tr>
+    <th>repository</th>
+    <th>description</th>
+    <th>stack</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/galfarth/sistema-carregamentos">sistema-carregamentos</a></td>
+    <td>painel operacional para consulta de carregamentos, Microsoft Graph e SharePoint</td>
+    <td>Python, FastAPI</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/galfarth/portfolio-gabriel-alfarth">portfolio-gabriel-alfarth</a></td>
+    <td>portfolio pessoal responsivo com projetos, curriculos, idiomas e GitHub Pages</td>
+    <td>HTML, CSS, JavaScript</td>
+  </tr>
+  <tr>
+    <td><a href="https://galfarth.github.io/carregamentosemanal/">carregamentosemanal</a></td>
+    <td>dashboard estatico com filtros, indicadores e programacao semanal</td>
+    <td>HTML, JavaScript</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/galfarth/advminella">advminella</a></td>
+    <td>site institucional e portal administrativo para escritorio de advocacia</td>
+    <td>HTML, CSS, Firebase</td>
+  </tr>
+</table>
+
+## activity overview *
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>main contribution</strong>
+      <br />
+      commits em projetos web, dashboards e sistemas internos
+    </td>
+    <td width="50%">
+      <strong>current direction</strong>
+      <br />
+      React, FastAPI, automacoes e visualizacao de dados
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>repositories</strong>
+      <br />
+      <a href="https://github.com/galfarth?tab=repositories">ver repositorios publicos</a>
+    </td>
+    <td width="50%">
+      <strong>portfolio</strong>
+      <br />
+      <a href="https://galfarth.github.io/portfolio-gabriel-alfarth/">abrir site publicado</a>
+    </td>
+  </tr>
+</table>
+
+## let's connect *
+
+```txt
+email    : gabrielschroederalfarth@gmail.com
+linkedin : linkedin.com/in/gabrielalfarth
+site     : galfarth.github.io/portfolio-gabriel-alfarth
+```
+
+<p>
+  aberto a projetos, oportunidades e ideias envolvendo desenvolvimento web, dados e automacao.
 </p>
