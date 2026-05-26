@@ -1,0 +1,13 @@
+<svg width="840" height="220" viewBox="0 0 840 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="840" height="220" rx="8" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="839" height="219" rx="7.5" stroke="#d0d7de"/>
+  <rect x="24" y="24" width="792" height="172" rx="6" fill="#111820" stroke="#30363d"/>
+  <text x="48" y="56" fill="#f0f6fc" font-family="Consolas, monospace" font-size="13" font-weight="700">galfarth / README.md</text>
+  <line x1="48" y1="74" x2="792" y2="74" stroke="#30363d"/>
+  <text x="48" y="108" fill="#58a6ff" font-family="Consolas, monospace" font-size="18" font-weight="700">$ profile --summary</text>
+  <text x="48" y="143" fill="#f0f6fc" font-family="Inter, Arial, sans-serif" font-size="31" font-weight="700">Gabriel Schroeder Alfarth</text>
+  <text x="48" y="172" fill="#8b949e" font-family="Inter, Arial, sans-serif" font-size="16">Full Stack in formation | Web systems | Data | Automation</text>
+  <rect x="600" y="98" width="168" height="68" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <text x="620" y="124" fill="#2ea043" font-family="Consolas, monospace" font-size="13">status: building</text>
+  <text x="620" y="148" fill="#58a6ff" font-family="Consolas, monospace" font-size="13">focus: production</text>
+</svg>

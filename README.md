@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header-message.svg" alt="Gabriel Alfarth profile header" width="100%" />
+  <img src="./assets/header-terminal.svg" alt="Gabriel Alfarth profile header" width="100%" />
 </div>
 
 ## about me
