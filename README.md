@@ -8,7 +8,7 @@
   <a href="https://galfarth.github.io/portfolio-gabriel-alfarth/">
     <img src="https://img.shields.io/badge/Portfolio-ver_online-14b8a6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-schroeder-alfarth](https://www.linkedin.com/in/gabrielalfarth/">
+  <a href="https://www.linkedin.com/in/gabrielalfarth/">
     <img src="https://img.shields.io/badge/LinkedIn-conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:gabrielschroederalfarth@gmail.com">
@@ -142,14 +142,56 @@ Gosto de pegar processos manuais, organizar a logica, transformar dados soltos e
 
 ## Atividade
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=galfarth&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatisticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galfarth&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</p>
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <strong>Projetos publicados</strong>
+      <br />
+      <br />
+      <a href="https://github.com/galfarth?tab=repositories">5 repositorios</a>
+    </td>
+    <td width="33%" align="center">
+      <strong>Foco principal</strong>
+      <br />
+      <br />
+      JavaScript, Python e dados
+    </td>
+    <td width="33%" align="center">
+      <strong>Portfolio online</strong>
+      <br />
+      <br />
+      <a href="https://galfarth.github.io/portfolio-gabriel-alfarth/">Abrir site</a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=galfarth&theme=tokyonight&hide_border=true" alt="Sequencia de contribuicoes" />
+  <img src="https://img.shields.io/badge/HTML5-projetos_publicados-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/JavaScript-interfaces_e_automacoes-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-sistemas_e_APIs-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Power_BI-dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=111" alt="Power BI" />
 </p>
+
+<details open>
+  <summary><strong>Agora estou evoluindo em</strong></summary>
+
+  <br />
+
+  <table>
+    <tr>
+      <td><strong>Front-end</strong></td>
+      <td>Componentes, responsividade, experiencia do usuario e acessibilidade.</td>
+    </tr>
+    <tr>
+      <td><strong>Back-end</strong></td>
+      <td>APIs com Python/FastAPI, autenticacao e integracao com servicos externos.</td>
+    </tr>
+    <tr>
+      <td><strong>Dados</strong></td>
+      <td>Dashboards, indicadores operacionais e organizacao de informacoes.</td>
+    </tr>
+  </table>
+</details>
 
 <details>
   <summary><strong>Minha forma de trabalhar</strong></summary>
@@ -166,8 +208,14 @@ Gosto de pegar processos manuais, organizar a logica, transformar dados soltos e
 ## Contato
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/gabrielalfarth/">
+    <img src="https://img.shields.io/badge/LinkedIn-gabrielalfarth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="mailto:gabrielschroederalfarth@gmail.com">
     <img src="https://img.shields.io/badge/Email-gabrielschroederalfarth%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://galfarth.github.io/portfolio-gabriel-alfarth/">
+    <img src="https://img.shields.io/badge/Portfolio-galfarth.dev-14b8a6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
