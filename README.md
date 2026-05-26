@@ -1,14 +1,16 @@
 <div align="center">
-  <img src="./assets/header-message.svg" alt="galfarth README header" width="100%" />
+  <img src="./assets/header-message.svg" alt="Gabriel Alfarth profile header" width="100%" />
 </div>
 
-## about me ✦
+## about me
 
-🌷 full stack developer in formation from brasil  
-💻 building web systems, dashboards, automations and internal tools  
-🏆 focused on practical projects, clean interfaces and useful data  
+`full stack developer in formation` `brazil` `web systems` `data` `automation`
 
-## fav digital archives ✧
+- Building web systems, dashboards, automations and internal tools.
+- Focused on practical projects, clean interfaces and useful operational data.
+- Currently improving with JavaScript, React, Python, FastAPI and Power BI.
+
+## fav digital archives
 
 | repository | description |
 | --- | --- |
@@ -17,7 +19,7 @@
 | [`carregamentosemanal`](https://galfarth.github.io/carregamentosemanal/) | static dashboard with filters, weekly schedule and operational indicators |
 | [`advminella`](https://github.com/galfarth/advminella) | institutional website and admin portal with Firebase |
 
-## toolkit ✱
+## toolkit
 
 ![html5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -39,16 +41,10 @@
 | data | dashboards, indicators, PostgreSQL, spreadsheets, Power BI |
 | deploy | GitHub Pages, Netlify, Render, Git versioning |
 
-## activity overview ✦
+## let's connect
 
-<div align="center">
-  <img src="./assets/activity-overview.svg" alt="activity overview" width="100%" />
-</div>
+Feel free to explore my repositories. I am open to projects and opportunities involving web development, dashboards, automation and data-driven tools.
 
-## let's connect ✣
-
-feel free to explore my digital archives. let's talk about web development, dashboards, automation and data-driven tools.
-
-↳ portfolio: [`galfarth.github.io/portfolio-gabriel-alfarth`](https://galfarth.github.io/portfolio-gabriel-alfarth/)  
-↳ linkedin: [`gabrielalfarth`](https://www.linkedin.com/in/gabrielalfarth/)  
-↳ email: [`gabrielschroederalfarth@gmail.com`](mailto:gabrielschroederalfarth@gmail.com)  
+- portfolio: [`galfarth.github.io/portfolio-gabriel-alfarth`](https://galfarth.github.io/portfolio-gabriel-alfarth/)
+- linkedin: [`linkedin.com/in/gabrielalfarth`](https://www.linkedin.com/in/gabrielalfarth/)
+- email: [`gabrielschroederalfarth@gmail.com`](mailto:gabrielschroederalfarth@gmail.com)
