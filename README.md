@@ -1,224 +1,136 @@
 <h1 align="center">Gabriel Schroeder Alfarth</h1>
 
-<h3 align="center">
-  Full Stack em formacao | Dados | Automacao | Projetos Web
-</h3>
-
 <p align="center">
-  <a href="https://galfarth.github.io/portfolio-gabriel-alfarth/">
-    <img src="https://img.shields.io/badge/Portfolio-ver_online-14b8a6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/gabrielalfarth/">
-    <img src="https://img.shields.io/badge/LinkedIn-conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:gabrielschroederalfarth@gmail.com">
-    <img src="https://img.shields.io/badge/Email-falar_comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  Full Stack em formacao, com foco em sistemas web, dashboards, automacoes e dados.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=2800&pause=850&color=38BDF8&center=true&vCenter=true&width=850&lines=Transformando+processos+manuais+em+sistemas;Criando+dashboards+para+decisoes+mais+claras;Construindo+sites+e+automacoes+com+foco+em+resultado;Aprendendo%2C+evoluindo+e+publicando+projetos+reais" alt="Texto animado" />
-</p>
-
-<p align="center">
-  <a href="#sobre-mim">Sobre</a>
-  |
-  <a href="#stack">Stack</a>
-  |
-  <a href="#projetos-em-destaque">Projetos</a>
-  |
-  <a href="#atividade">Atividade</a>
-  |
-  <a href="#contato">Contato</a>
+  <a href="https://galfarth.github.io/portfolio-gabriel-alfarth/">Portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/gabrielalfarth/">LinkedIn</a>
+  ·
+  <a href="mailto:gabrielschroederalfarth@gmail.com">Email</a>
 </p>
 
 ---
 
-## Sobre mim
+## Sobre
 
-Sou desenvolvedor em evolucao constante, com foco em criar solucoes praticas para problemas reais: sistemas internos, automacoes, dashboards e interfaces web.
+Desenvolvo solucoes praticas para organizar processos, transformar dados em informacao util e criar interfaces simples para uso real.
 
-Gosto de pegar processos manuais, organizar a logica, transformar dados soltos em informacao util e entregar algo que seja simples de usar no dia a dia.
-
-<table>
-  <tr>
-    <td><strong>Foco atual</strong></td>
-    <td>HTML, CSS, JavaScript, React, Python e FastAPI</td>
-  </tr>
-  <tr>
-    <td><strong>Dados</strong></td>
-    <td>Power BI, PostgreSQL, indicadores e dashboards</td>
-  </tr>
-  <tr>
-    <td><strong>Construindo</strong></td>
-    <td>Portfolios, sistemas operacionais, automacoes e sites profissionais</td>
-  </tr>
-  <tr>
-    <td><strong>Portfolio</strong></td>
-    <td><a href="https://galfarth.github.io/portfolio-gabriel-alfarth/">galfarth.github.io/portfolio-gabriel-alfarth</a></td>
-  </tr>
-</table>
+Meu foco atual esta em evoluir como desenvolvedor full stack, combinando front-end, APIs, dashboards e automacoes para resolver problemas operacionais.
 
 ## Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,fastapi,postgres,firebase,git,github,vscode" alt="Tecnologias" />
-</p>
-
-<details open>
-  <summary><strong>O que uso para construir</strong></summary>
-
-  <br />
-
-  <table>
-    <tr>
-      <td><strong>Frontend</strong></td>
-      <td>HTML, CSS, JavaScript, React</td>
-    </tr>
-    <tr>
-      <td><strong>Backend</strong></td>
-      <td>Python, FastAPI, Node.js</td>
-    </tr>
-    <tr>
-      <td><strong>Dados</strong></td>
-      <td>Power BI, PostgreSQL, planilhas e dashboards</td>
-    </tr>
-    <tr>
-      <td><strong>Deploy</strong></td>
-      <td>GitHub Pages, Netlify, Render</td>
-    </tr>
-  </table>
-</details>
-
-## Projetos em destaque
-
 <table>
   <tr>
-    <td width="50%">
-      <h3>Sistema de Carregamentos</h3>
-      <p>Painel operacional para consulta de carregamentos, login Microsoft, SharePoint e perfis de acesso.</p>
-      <p>
-        <a href="https://github.com/galfarth/sistema-carregamentos">Repositorio</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>Portfolio Pessoal</h3>
-      <p>Portfolio responsivo com projetos, curriculos, idiomas, modal interativo e GitHub Pages.</p>
-      <p>
-        <a href="https://galfarth.github.io/portfolio-gabriel-alfarth/">Ver online</a>
-        |
-        <a href="https://github.com/galfarth/portfolio-gabriel-alfarth">Repositorio</a>
-      </p>
-    </td>
+    <td><strong>Front-end</strong></td>
+    <td>HTML, CSS, JavaScript, React</td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>Programacao de Carregamentos</h3>
-      <p>Dashboard estatico para acompanhar programacao semanal, filtros, indicadores e volume por periodo.</p>
-      <p>
-        <a href="https://galfarth.github.io/carregamentosemanal/">Abrir projeto</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>Adv Minella</h3>
-      <p>Site institucional e portal administrativo com HTML, CSS, JavaScript, Firebase e Netlify.</p>
-      <p>
-        <a href="https://github.com/galfarth/advminella">Repositorio</a>
-      </p>
-    </td>
+    <td><strong>Back-end</strong></td>
+    <td>Python, FastAPI, Node.js</td>
   </tr>
-</table>
-
-<details>
-  <summary><strong>Mais sobre meus projetos</strong></summary>
-
-  <br />
-
-  - Priorizo interfaces simples, objetivas e responsivas.
-  - Gosto de projetos que reduzem retrabalho e melhoram a visibilidade da operacao.
-  - Tenho interesse em sistemas internos, automacoes, dashboards e produtos web.
-  - Tento publicar projetos com contexto claro, README util e links funcionando.
-</details>
-
-## Atividade
-
-<table>
   <tr>
-    <td width="33%" align="center">
-      <strong>Projetos publicados</strong>
-      <br />
-      <br />
-      <a href="https://github.com/galfarth?tab=repositories">5 repositorios</a>
-    </td>
-    <td width="33%" align="center">
-      <strong>Foco principal</strong>
-      <br />
-      <br />
-      JavaScript, Python e dados
-    </td>
-    <td width="33%" align="center">
-      <strong>Portfolio online</strong>
-      <br />
-      <br />
-      <a href="https://galfarth.github.io/portfolio-gabriel-alfarth/">Abrir site</a>
-    </td>
+    <td><strong>Dados</strong></td>
+    <td>Power BI, PostgreSQL, planilhas, indicadores</td>
+  </tr>
+  <tr>
+    <td><strong>Cloud e deploy</strong></td>
+    <td>GitHub Pages, Netlify, Render</td>
+  </tr>
+  <tr>
+    <td><strong>Ferramentas</strong></td>
+    <td>Git, GitHub, VS Code, Firebase</td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-projetos_publicados-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/JavaScript-interfaces_e_automacoes-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-sistemas_e_APIs-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Power_BI-dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=111" alt="Power BI" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,fastapi,postgres,firebase,git,github,vscode" alt="Stack principal" />
 </p>
 
-<details open>
-  <summary><strong>Agora estou evoluindo em</strong></summary>
+## Habilidades
 
-  <br />
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Desenvolvimento web</strong>
+      <br />
+      Interfaces responsivas, componentes reutilizaveis, formularios, filtros, modais e paginas institucionais.
+    </td>
+    <td width="50%">
+      <strong>Sistemas e APIs</strong>
+      <br />
+      Organizacao de regras de negocio, endpoints, autenticacao, integracoes e paineis operacionais.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Dados e dashboards</strong>
+      <br />
+      Indicadores, visualizacoes, analises operacionais, Power BI e leitura de bases em planilhas.
+    </td>
+    <td width="50%">
+      <strong>Automacao</strong>
+      <br />
+      Reducao de tarefas manuais, padronizacao de fluxos e transformacao de processos em ferramentas digitais.
+    </td>
+  </tr>
+</table>
 
-  <table>
-    <tr>
-      <td><strong>Front-end</strong></td>
-      <td>Componentes, responsividade, experiencia do usuario e acessibilidade.</td>
-    </tr>
-    <tr>
-      <td><strong>Back-end</strong></td>
-      <td>APIs com Python/FastAPI, autenticacao e integracao com servicos externos.</td>
-    </tr>
-    <tr>
-      <td><strong>Dados</strong></td>
-      <td>Dashboards, indicadores operacionais e organizacao de informacoes.</td>
-    </tr>
-  </table>
-</details>
+## Projetos
 
-<details>
-  <summary><strong>Minha forma de trabalhar</strong></summary>
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Sistema de Carregamentos</strong>
+      <br />
+      Painel operacional com FastAPI, Microsoft Graph, SharePoint e controle de acesso.
+      <br />
+      <a href="https://github.com/galfarth/sistema-carregamentos">Repositorio</a>
+    </td>
+    <td width="50%">
+      <strong>Portfolio Pessoal</strong>
+      <br />
+      Portfolio responsivo com projetos, curriculos em dois idiomas, modal interativo e GitHub Pages.
+      <br />
+      <a href="https://galfarth.github.io/portfolio-gabriel-alfarth/">Online</a>
+      ·
+      <a href="https://github.com/galfarth/portfolio-gabriel-alfarth">Repositorio</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Programacao de Carregamentos</strong>
+      <br />
+      Dashboard estatico para acompanhar programacao semanal, filtros, indicadores e volume por periodo.
+      <br />
+      <a href="https://galfarth.github.io/carregamentosemanal/">Online</a>
+    </td>
+    <td width="50%">
+      <strong>Adv Minella</strong>
+      <br />
+      Site institucional e portal administrativo com HTML, CSS, JavaScript, Firebase e Netlify.
+      <br />
+      <a href="https://github.com/galfarth/advminella">Repositorio</a>
+    </td>
+  </tr>
+</table>
 
-  <br />
+## Em evolucao
 
-  - Entendo o processo antes de escrever codigo.
-  - Quebro problemas grandes em entregas menores.
-  - Prefiro solucoes claras, testaveis e faceis de manter.
-  - Documento o suficiente para outra pessoa conseguir continuar.
-  - Busco transformar dados em decisao e operacao em sistema.
-</details>
+- React e componentizacao de interfaces.
+- APIs com Python e FastAPI.
+- Dashboards e indicadores com foco operacional.
+- Integracoes com servicos externos e bases de dados.
+- Boas praticas de versionamento, documentacao e deploy.
 
 ## Contato
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabrielalfarth/">
-    <img src="https://img.shields.io/badge/LinkedIn-gabrielalfarth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:gabrielschroederalfarth@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gabrielschroederalfarth%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://galfarth.github.io/portfolio-gabriel-alfarth/">
-    <img src="https://img.shields.io/badge/Portfolio-galfarth.dev-14b8a6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Aberto a projetos, oportunidades e ideias envolvendo desenvolvimento web, dados e automacao.</strong>
+<p>
+  <a href="mailto:gabrielschroederalfarth@gmail.com">gabrielschroederalfarth@gmail.com</a>
+  <br />
+  <a href="https://www.linkedin.com/in/gabrielalfarth/">linkedin.com/in/gabrielalfarth</a>
+  <br />
+  <a href="https://galfarth.github.io/portfolio-gabriel-alfarth/">galfarth.github.io/portfolio-gabriel-alfarth</a>
 </p>
