@@ -8,7 +8,7 @@
   <a href="https://galfarth.github.io/portfolio-gabriel-alfarth/">
     <img src="https://img.shields.io/badge/Portfolio-ver_online-14b8a6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-schroeder-alfarth">
+  <a href="https://www.linkedin.com/in/gabriel-schroeder-alfarth](https://www.linkedin.com/in/gabrielalfarth/">
     <img src="https://img.shields.io/badge/LinkedIn-conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:gabrielschroederalfarth@gmail.com">
